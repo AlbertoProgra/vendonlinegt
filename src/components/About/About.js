@@ -1,0 +1,6 @@
+// function component
+const about = (props) => {
+    return (<h1>About</h1>);
+}
+
+export default about;
