@@ -11,6 +11,7 @@ function App() {
      {/* App me indica que colocar y donde, la pagina principal sera dashboard por eso / */}
       <Layout>
         <Switch>
+          {/* componente a renderizar dentro de route*/}
           <Route path="/about" component={About}/>
           <Route path="/products" component={Products}/>
           <Route path="/" exact component={Dashboard}/>

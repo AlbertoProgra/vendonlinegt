@@ -1,6 +1,6 @@
 // function component
 const products = (props) => {
-    return (<h1>products</h1>);
+    return (<h1>Products</h1>);
 }
 
 export default products;
