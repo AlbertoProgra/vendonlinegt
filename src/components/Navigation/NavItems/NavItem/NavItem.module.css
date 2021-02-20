@@ -14,11 +14,12 @@
     text-decoration: none;
     width: 100%;
     box-sizing: border-box;
+    font-size: 20px;
 }
 
 .NavItem a:hover,
 .NavItem a:active,
 .NavItem a.active {
-    border-bottom: 4px solid #40A4C8;
-    color: #40A4C8;
+    border-bottom: 6px solid #000000;
+    color: #ffffff;
 }
