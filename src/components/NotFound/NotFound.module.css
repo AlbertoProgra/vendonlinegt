@@ -1,0 +1,15 @@
+.CenterImage {
+    text-align: center;
+} 
+
+.CenterImage img {
+    height: 50vh;
+    margin-top: 40px;
+}
+
+.CenterImage span {
+    color: #fb503b;
+    text-decoration: underline;
+    margin-left: 5px;
+    font-size: 20px; 
+}
