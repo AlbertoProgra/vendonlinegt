@@ -1,0 +1,22 @@
+.fBottom {
+    background-color: rgb(235, 225, 225);
+    height: 150px;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    display: flex;   
+}
+
+.fBottom2 {
+    background-color: black;
+    height: 35px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction:row-reverse;
+    align-items: center;
+}

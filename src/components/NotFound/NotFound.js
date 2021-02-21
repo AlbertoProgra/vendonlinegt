@@ -8,7 +8,7 @@ const NotFound = (props) => {
     return(
         <div className={classes.CenterImage}>
             <img src={image404} alt="Not Found"/>
-            <h2 style = {{marginBottom: "30px"}}>¡ La página que buscas no se encuentra !</h2>
+            <h2 style = {{marginBottom: "20px"}}>¡ La página que buscas no se encuentra !</h2>
             <h4 style = {{marginTop: "0px"}}>{ 'La URL brindada fue: '}
                 <span>{ location.pathname }</span>
             </h4>
